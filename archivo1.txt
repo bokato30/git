@@ -1,1 +1,3 @@
-#este un ejercicio de prueba de git
+Este un ejercicio de prueba de git
+
+Esta es una modificacion desde una nueva rama
